@@ -1,0 +1,5 @@
+C:\Users\Humera\source\repos\CalculateWagesofTotalWorkingHours\CalculateWagesofTotalWorkingHours\obj\Debug\net6.0\CalculateWagesofTotalWorkingHours.csproj.AssemblyReference.cache
+C:\Users\Humera\source\repos\CalculateWagesofTotalWorkingHours\CalculateWagesofTotalWorkingHours\obj\Debug\net6.0\CalculateWagesofTotalWorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humera\source\repos\CalculateWagesofTotalWorkingHours\CalculateWagesofTotalWorkingHours\obj\Debug\net6.0\CalculateWagesofTotalWorkingHours.AssemblyInfoInputs.cache
+C:\Users\Humera\source\repos\CalculateWagesofTotalWorkingHours\CalculateWagesofTotalWorkingHours\obj\Debug\net6.0\CalculateWagesofTotalWorkingHours.AssemblyInfo.cs
+C:\Users\Humera\source\repos\CalculateWagesofTotalWorkingHours\CalculateWagesofTotalWorkingHours\obj\Debug\net6.0\CalculateWagesofTotalWorkingHours.csproj.CoreCompileInputs.cache
